@@ -1,20 +1,27 @@
 # DVA490 and DVA474 Project Course
+
 ## Purpose
 
+
 ## Features
+- []
+- []
 
 ## Use
 
-### Prerequisites
+### Prerequisites:
+-
 
-### Install
+### Install:
+1. 
 
 ## Documentation
+
 
 ## Developers
 This project was developed by:
 - Carl Larsson: Role and contribution
-- Pontus Svensson
+- Pontus Svensson:
 
-### Contact
+### Contact:
 cln20001@student.mdu.se
