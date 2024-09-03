@@ -1,2 +1,2 @@
 # .github
-Used to fix a public organization profile with readme file
+This repo is only used to fix a public organization profile with the readme file in the profile folder.
