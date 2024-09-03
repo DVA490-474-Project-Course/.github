@@ -5,8 +5,8 @@ Welcome to the DVA490 and DVA474 Project Course regarding the development of rob
 
 
 ## Features
-- [x]
-- [ ]
+- [x] a
+- [ ] b
 
 ## Use
 
