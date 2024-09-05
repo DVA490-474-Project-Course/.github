@@ -21,8 +21,17 @@ Welcome to the DVA490 and DVA474 Project Course regarding the development of rob
 
 ## Developers
 This project was developed by:
-- Carl Larsson: Role and contribution
-- Pontus Svensson:
+- Mudar Ibrahim: Team leader and software developer
+- Carl Larsson: Software lead
+- Viktor Eriksson: Software developer
+- Jacob Johansson: Software developer
+- Aaiza Aziz Khan: Software developer
+- Shruthi Puthiya Kunnon: Software developer
+- Emil Åberg: Software developer
+- Pontus Svensson: Hardware lead
+- Anton Grusell: Hardware developer
+- Johanna Melander: Hardware developer
+- Fredrik Westerbom: Hardware developer
 
 ### Contact:
 cln20001@student.mdu.se
