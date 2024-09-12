@@ -1,5 +1,6 @@
 # DVA490 and DVA474 Project Course
-Welcome to the DVA490 and DVA474 Project Course regarding the development of robots for the RoboSoccer challenge.
+Welcome to the DVA490 and DVA474 Project Course, project name Multi-robot Soccer - RoboCup. 
+The project concerns the development of robots for the RoboSoccer challenge.
 
 ## Purpose
 
