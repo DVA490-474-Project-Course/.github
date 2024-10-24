@@ -32,6 +32,7 @@ Hardware:
 - [ ] Hardware mechanical design
 - [ ] Hardware 3D design
 - [ ] Hardware circuit/electrical design
+
 Software:
 - [ ] Simulation Interface
 - [ ] SSL Interface
