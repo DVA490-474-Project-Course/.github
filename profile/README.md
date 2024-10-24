@@ -1,26 +1,31 @@
-# DVA490 and DVA474 Project Course
+DVA490 and DVA474 Project Course
+=======================
+
+About
+-----------------------
 Welcome to the DVA490 and DVA474 Project Course, project name Multi-robot Soccer - RoboCup. 
 The project concerns the development of robots for the RoboSoccer challenge.
 
-## Purpose
+### Built with
+ - [nav2]()
 
+Getting started
+-----------------------
 
-## Features
-- [x] a
-- [ ] b
-
-## Use
-
-### Prerequisites:
+### Prerequisites
 -
 
-### Install:
+### Installation
 1. 
 
-## Documentation
+Usage
+-----------------------
 
+Roadmap
+-----------------------
 
-## Developers
+Contributors and roles
+-----------------------
 This project was developed by:
 - Mudar Ibrahim: Team leader and software developer
 - Carl Larsson: Software lead
