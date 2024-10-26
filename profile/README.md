@@ -1,4 +1,4 @@
-DVA490 and DVA474 Project Course
+Multi-robot Soccer - RoboCup
 =======================
 
 About
@@ -13,19 +13,6 @@ The project is about creating SSL RoboCup (Division B) robots and developing the
 - [PyTorch](https://pytorch.org/)
 - []()
 
-
-Getting started
------------------------
-
-### Prerequisites
--
-
-### Installation
-1. 
-
-Usage
------------------------
-
 Roadmap
 -----------------------
 Hardware:
@@ -34,8 +21,8 @@ Hardware:
 - [ ] Hardware circuit/electrical design
 
 Software:
-- [ ] Simulation Interface
-- [ ] SSL Interface
+- [x] Simulation Interface
+- [x] SSL Interface
 - [ ] Hardware Interface
 - [ ] Communication protocol
 - [ ] Robot executable (Individual Robot Behaviour)
