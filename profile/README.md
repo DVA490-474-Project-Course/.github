@@ -37,4 +37,4 @@ This project was developed by:
 - Fredrik Westerbom: Hardware developer and software developer
 
 ### Contact:
-cln20001@student.mdu.se
+Carl Larsson: cln20001@student.mdu.se
