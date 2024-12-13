@@ -18,7 +18,7 @@ Software:
 - [x] SSL Interface
 - [ ] Hardware Interface
 - [ ] Communication protocol
-- [ ] Raspberry Pi (Individual Robot Behaviour)
+- [ ] Raspberry Pi executable (Individual Robot Behaviour)
 - [ ] Central computer executable (Collective Robot Behaviour)
 
 Contributors and roles
