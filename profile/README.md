@@ -6,13 +6,6 @@ About
 Welcome to the DVA490 and DVA474 Project Course, project name Multi-robot Soccer - RoboCup. 
 The project is about creating SSL RoboCup (Division B) robots and developing the accompanying software.
 
-### Built with
-- [Protobuf3](https://protobuf.dev/)
-- [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
-- [nav2](https://docs.nav2.org/)
-- [PyTorch](https://pytorch.org/)
-- []()
-
 Roadmap
 -----------------------
 Hardware:
@@ -25,7 +18,7 @@ Software:
 - [x] SSL Interface
 - [ ] Hardware Interface
 - [ ] Communication protocol
-- [ ] Robot executable (Individual Robot Behaviour)
+- [ ] Raspberry Pi (Individual Robot Behaviour)
 - [ ] Central computer executable (Collective Robot Behaviour)
 
 Contributors and roles
@@ -41,7 +34,7 @@ This project was developed by:
 - Pontus Svensson: Hardware lead, hardware developer and software developer
 - Anton Grusell: Hardware developer
 - Johanna Melander: Hardware developer
-- Fredrik Westerbom: Hardware developer
+- Fredrik Westerbom: Hardware developer and software developer
 
 ### Contact:
 cln20001@student.mdu.se
